@@ -6,8 +6,8 @@ let cloudDB = process.env.DATABASE;
 
 const db = mongoose
   .connect(
-    process.env.DB_LOCAL
-    // cloudDB
+    // process.env.DB_LOCAL
+    cloudDB
   )
   .then(() => {
     console.log("DB connected successfully :)");
