@@ -4,7 +4,7 @@ Welcome to the Hospital API! This API is built using Node.js and designed to str
 
 ## Demo
 
-DemoLink : https://issue-tracker-rsru.onrender.com
+DemoLink : https://hospital-api-y2fd.onrender.com
 
 ## Features
 
