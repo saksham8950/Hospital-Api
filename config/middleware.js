@@ -5,7 +5,7 @@ const Doctor = require("../models/doctor");
 
 //verify token
 module.exports.verifyToken = async (req, res, next) => {
-  console.log("Bearer Token" + req.headers["authorization"]);
+  // console.log("Bearer Token" + req.headers["authorization"]);
   let token;
 
   if (
